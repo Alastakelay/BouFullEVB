@@ -8745,7 +8745,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.7nH"
+		(property "Value" "3nH"
 			(at 202.946 64.516 0)
 			(show_name no)
 			(do_not_autoplace no)
